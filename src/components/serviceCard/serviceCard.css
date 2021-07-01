@@ -1,0 +1,81 @@
+.serviceCardBg{
+    background: #FFFFFF;
+    box-shadow: 2px 2px 20px rgba(0, 0, 0, 0.1);
+    border-radius: 30px;
+}
+
+.serviceCardImg{
+    padding: 10px;
+    border-radius: 30px;
+}
+
+.serviceTopItem{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.serviceTitle{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 22px;
+    color: #007EE5;
+    margin-left: -10px;
+}
+
+.servicePrice{
+    display: flex;
+    flex-direction: column;
+}
+
+.serviceTk{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 83.4%;
+    color: #007EE5;
+}
+.serviceBDT{
+    font-size: 14px;
+}
+
+.servicePriceTitle{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px; 
+    color: #767676;
+}
+
+
+
+.serviceCatList{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    text-transform: capitalize;
+    color: #767676;
+}
+
+.serviceFooter{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    margin-top: -20px;
+}
+
+.serviceOrderBtn{
+    width: 106px;
+    height: 35px;
+    background: #007EE5;
+    border-radius: 20px;
+    border: none;
+    color: #FFFFFF;
+}

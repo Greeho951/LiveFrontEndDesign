@@ -1,0 +1,86 @@
+.propCardBg{
+    background: #FFFFFF;
+    box-shadow: 2px 2px 20px rgba(0, 0, 0, 0.1);
+    border-radius: 30px;
+}
+
+.propCardImg{
+    padding: 10px;
+    border-radius: 30px;
+}
+
+.propTopItem{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.propPrice{
+    margin-left: -10px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 29px;
+    color: #007EE5;
+}
+.propBDT{
+    font-size: 14px;
+}
+
+.propType{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 22px;
+    color: rgba(0, 126, 229, 0.8);
+}
+
+.propCardLeltItem{
+    list-style: none;
+}
+
+.propCardLeftItemList{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    color: #767676;
+}
+
+.propwishIcon{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: -10px;
+}
+
+.propTitle{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    color: #767676;
+}
+
+.propFooter{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 14px;
+}
+
+.propFooterItem{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 10px;
+    line-height: 100.5%;
+    color: #555555;
+}

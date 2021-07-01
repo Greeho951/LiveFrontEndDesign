@@ -1,0 +1,83 @@
+.rivew-card{
+    width: 340px;
+    height: 170px;
+    background: #FFFFFF;
+    box-shadow: 2px 2px 20px rgba(0, 0, 0, 0.1);
+    border-radius: 20px;
+    position: relative;
+    padding: 14px;
+}
+
+.reviewImg{
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    top: 135px;
+    left: 136px;
+}
+
+.card-review-name{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 140%;
+    text-align: center;
+    letter-spacing: 0.05em;
+    color: #767676;
+}
+
+.review-comment{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 150%;
+    /* or 18px */
+    color: rgba(118, 118, 118, 0.8);
+}
+
+.clickReviewItem{
+    display: flex;
+    list-style: none;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+    margin-left: -100px;
+}
+
+.clickReviewList{
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background: #C4C4C4;
+    margin-left: 12px;
+}
+
+.clickActiveReview{
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    background: #007EE5;
+}
+
+.rec.rec-arrow{
+    display: none;
+}
+
+button.rec-dot{
+    margin-top: -0.10rem;
+    background-color: #C4C4C4;
+    box-shadow: 0 0 1px 3px #fff;
+}
+  
+button.rec-dot:hover, button.rec-dot:active, button.rec-dot:focus  {
+    background-color: #007EE5;
+    box-shadow: 0 0 1px 3px #007EE5;
+}
+
+/*zoom the middle card*/
+.rivew-card.active {
+    zoom: 130%;
+}

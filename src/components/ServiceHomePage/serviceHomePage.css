@@ -1,0 +1,50 @@
+.serviceNameLeft{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 100%;
+    text-align: center;
+    letter-spacing: 0.3em;
+
+    color: #767676;
+}
+
+.serviceTitleLeft{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 140%;
+    color: #767676;
+}
+
+
+.serviceHomePageCard{
+    background: #FFFFFF;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    cursor: pointer;
+}
+
+.serviceHomePageCardImg{
+    width: 40px;
+    height: 40px;  
+}
+
+.serviceCardCatName{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 15px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #515B6D;
+    margin-top: 18px;
+}

@@ -1,0 +1,18 @@
+#banner-text{ 
+    transform: translateY(25%);
+}
+
+.rentBannerContent{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 130%;
+    letter-spacing: -0.05em;
+    color: rgba(118, 118, 118, 0.9);
+}
+
+.rentBanner-hr{
+    border-color: #ACABAB; 
+    background-color: #ACABAB;
+}

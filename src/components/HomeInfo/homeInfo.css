@@ -1,0 +1,39 @@
+.homeInfo{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+
+.homeInfoIcon{
+    background-color: var(--primary);
+    padding: 18px;
+    border-radius: 20px;
+}
+
+.homeInfoItemT{
+    display: flex;
+    align-items: center;
+}
+
+.homeInfoTitle{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 22px;
+    color: #767676;
+    margin-left: 14px;
+}
+
+
+.homeInfoP{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 150%;
+    color: rgba(118, 118, 118, 0.7);
+    margin-top: 20px;
+    text-align: left;
+    
+}

@@ -1,0 +1,61 @@
+.featured-title{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: center;
+    letter-spacing: 0.05em;
+    color: #767676;
+    margin-top: 30px;
+}
+
+.featured-list{
+    display: flex;
+    align-items: center;
+    list-style: none;
+    justify-content: center;
+}
+
+.featured-item{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    color: #767676;
+    margin: 15px;
+    
+}
+hr{
+    border: 1px solid rgba(118, 118, 118, 0.5);
+}
+
+/* Get Rid of Default button styling*/
+.featured-item > button {
+    outline: none;
+    border: none;
+    background-color: #FFFAFA;
+}
+
+/*when button is clicked and active*/
+.featureButton.active{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 29px;
+    color: #007EE5;
+}
+/*when button is not clicked and inactive"*/
+.featureButton{
+    background-color: #FFFAFA;
+}
+
+
+.feature-hr{
+    border-color: #ACABAB; 
+    background-color: #ACABAB;
+    
+}

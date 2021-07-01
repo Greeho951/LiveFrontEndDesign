@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/LiveFrontEndDesign/static/css/main.f9397e71.chunk.css",
+    "main.js": "/LiveFrontEndDesign/static/js/main.9fb50dc4.chunk.js",
+    "main.js.map": "/LiveFrontEndDesign/static/js/main.9fb50dc4.chunk.js.map",
+    "runtime-main.js": "/LiveFrontEndDesign/static/js/runtime-main.3fcf260a.js",
+    "runtime-main.js.map": "/LiveFrontEndDesign/static/js/runtime-main.3fcf260a.js.map",
+    "static/js/2.751dbbea.chunk.js": "/LiveFrontEndDesign/static/js/2.751dbbea.chunk.js",
+    "static/js/2.751dbbea.chunk.js.map": "/LiveFrontEndDesign/static/js/2.751dbbea.chunk.js.map",
+    "index.html": "/LiveFrontEndDesign/index.html",
+    "static/css/main.f9397e71.chunk.css.map": "/LiveFrontEndDesign/static/css/main.f9397e71.chunk.css.map",
+    "static/js/2.751dbbea.chunk.js.LICENSE.txt": "/LiveFrontEndDesign/static/js/2.751dbbea.chunk.js.LICENSE.txt",
+    "static/media/HouseForRent.e59a597a.png": "/LiveFrontEndDesign/static/media/HouseForRent.e59a597a.png",
+    "static/media/bannerOne.2db1d11d.png": "/LiveFrontEndDesign/static/media/bannerOne.2db1d11d.png",
+    "static/media/cover.3e57503d.png": "/LiveFrontEndDesign/static/media/cover.3e57503d.png",
+    "static/media/fbg.c9943a95.jpg": "/LiveFrontEndDesign/static/media/fbg.c9943a95.jpg",
+    "static/media/prop.c674393a.png": "/LiveFrontEndDesign/static/media/prop.c674393a.png",
+    "static/media/service.7e098c48.png": "/LiveFrontEndDesign/static/media/service.7e098c48.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3fcf260a.js",
+    "static/js/2.751dbbea.chunk.js",
+    "static/css/main.f9397e71.chunk.css",
+    "static/js/main.9fb50dc4.chunk.js"
+  ]
+}
